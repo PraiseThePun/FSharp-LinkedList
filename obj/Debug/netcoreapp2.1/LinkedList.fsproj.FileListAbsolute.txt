@@ -1,0 +1,13 @@
+C:\Users\cgimenez\Exercism\fsharp\linked-list\obj\Debug\netcoreapp2.1\LinkedList.fsprojAssemblyReference.cache
+C:\Users\cgimenez\Exercism\fsharp\linked-list\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\cgimenez\Exercism\fsharp\linked-list\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfo.fs
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\LinkedList.deps.json
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.json
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.dev.json
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\cgimenez\Exercism\fsharp\linked-list\bin\Debug\netcoreapp2.1\LinkedList.pdb
+C:\Users\cgimenez\Exercism\fsharp\linked-list\obj\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\cgimenez\Exercism\fsharp\linked-list\obj\Debug\netcoreapp2.1\LinkedList.pdb
